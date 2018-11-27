@@ -1,0 +1,12 @@
+label,color,pad,thickness
+guess,"rgba(31, 119, 180, 0.8)",14,20
+TRUE,"rgba(214, 39, 40, 0.8)",14,20
+FALSE,"rgba(255, 127, 14, 0.8)",14,20
+winter,"rgba(148, 103, 189, 0.8)",14,20
+summer,"rgba(44, 160, 44, 0.8)",14,20
+enjoy,"rgba(227, 119, 194, 0.8)",14,20
+major,"rgba(127, 127, 127, 0.8)",14,20
+minor,"rgba(188, 189, 34, 0.8)",14,20
+business,"rgba(23, 190, 207, 0.8)",14,20
+marketing,"rgba(31, 119, 180, 0.8)",14,20
+education,"rgba(255, 127, 14, 0.8)",14,20

@@ -1,0 +1,117 @@
+id,par,contribution,title,tp
+1,S01,cognitive,student 01,10-Sep-15
+2,T01,social,teacher,10-Sep-15
+3,S02,social,student 02,10-Sep-15
+4,S06,social,student 06,11-Sep-15
+5,S12,social,student 12,11-Sep-15
+6,S03,cognitive,student 03,11-Sep-15
+7,S08,social,student 08,11-Sep-15
+8,S06,social,student 06,11-Sep-15
+9,S03,social,student 03,11-Sep-15
+10,S17,social,student 17,11-Sep-15
+11,S01,social,student 01,11-Sep-15
+12,S17,cognitive,student 17,11-Sep-15
+13,S09,social,student 09,11-Sep-15
+14,S17,social,student 17,12-Sep-15
+15,S03,social,student 03,12-Sep-15
+16,S03,social,student 03,12-Sep-15
+17,S08,social,student 08,12-Sep-15
+18,S09,social,student 09,12-Sep-15
+19,S17,cognitive,student 17,12-Sep-15
+20,S14,social,student 14,12-Sep-15
+21,S16,social,student 16,12-Sep-15
+22,S01,social,student 01,13-Sep-15
+23,S16,cognitive,student 16,13-Sep-15
+24,S05,cognitive,student 05,13-Sep-15
+25,S16,social,student 16,13-Sep-15
+26,S02,social,student 02,13-Sep-15
+27,S02,social,student 02,13-Sep-15
+28,S01,social,student 01,13-Sep-15
+29,S17,cognitive,student 17,13-Sep-15
+30,S05,social,student 05,13-Sep-15
+31,T01,social,teacher,13-Sep-15
+32,S11,social,student 11,13-Sep-15
+33,S02,cognitive,student 02,13-Sep-15
+34,S12,cognitive,student 12,13-Sep-15
+35,S09,social,student 09,13-Sep-15
+36,S15,social,student 15,13-Sep-15
+37,S17,cognitive,student 17,13-Sep-15
+38,S16,social,student 05,13-Sep-15
+39,T01,instruction,teacher,13-Sep-15
+40,S09,social,student 09,13-Sep-15
+41,S11,social,student 11,13-Sep-15
+42,S10,cognitive,student 10,13-Sep-15
+43,S10,social,student 10,13-Sep-15
+44,S17,social,student 17,13-Sep-15
+45,S16,social,student 16,13-Sep-15
+46,S09,cognitive,student 09,14-Sep-15
+47,S15,cognitive,student 15,14-Sep-15
+48,S11,social,student 11,14-Sep-15
+49,S12,social,student 12,14-Sep-15
+50,S03,social,student 03,14-Sep-15
+51,T01,instruction,teacher,14-Sep-15
+52,S09,social,student 09,14-Sep-15
+53,S12,social,student 12,14-Sep-15
+54,S09,social,student 09,14-Sep-15
+55,S09,social,student 09,14-Sep-15
+56,S03,social,student 03,14-Sep-15
+57,S07,cognitive,student 07,14-Sep-15
+58,S12,cognitive,student 12,14-Sep-15
+59,S14,social,student 14,14-Sep-15
+60,S05,cognitive,student 05,14-Sep-15
+61,S07,social,student 07,14-Sep-15
+62,S05,social,student 05,14-Sep-15
+63,S07,social,student 07,14-Sep-15
+64,S07,social,student 07,14-Sep-15
+65,S16,social,student 16,14-Sep-15
+66,S10,social,student 10,14-Sep-15
+67,S09,social,student 09,15-Sep-15
+68,S14,social,student 14,15-Sep-15
+69,S05,social,student 05,15-Sep-15
+70,S13,cognitive,student 13,15-Sep-15
+71,S13,cognitive,student 13,15-Sep-15
+72,S08,social,student 08,15-Sep-15
+73,S15,social,student 15,15-Sep-15
+74,S18,social,student 18,15-Sep-15
+75,S07,social,student 07,15-Sep-15
+76,S19,social,student 19,15-Sep-15
+77,S19,social,student 19,15-Sep-15
+78,T01,social,teacher,15-Sep-15
+79,S10,instruction,student 10,15-Sep-15
+80,S09,social,student 09,15-Sep-15
+81,S18,social,student 18,15-Sep-15
+82,S13,social,student 13,15-Sep-15
+83,S14,cognitive,student 14,15-Sep-15
+84,S08,social,student 08,15-Sep-15
+85,S02,social,student 02,15-Sep-15
+86,S15,social,student 15,15-Sep-15
+87,S05,social,student 05,15-Sep-15
+88,S18,cognitive,student 18,15-Sep-15
+89,S19,cognitive,student 19,15-Sep-15
+90,S13,social,student 13,15-Sep-15
+91,S04,social,student 04,15-Sep-15
+92,S04,social,student 04,15-Sep-15
+93,T01,social,teacher,15-Sep-15
+94,S15,social,student 15,15-Sep-15
+95,S05,cognitive,student 05,15-Sep-15
+96,S18,social,student 18,16-Sep-15
+97,S12,social,student 12,16-Sep-15
+98,S18,social,student 18,16-Sep-15
+99,T01,social,teacher,16-Sep-15
+100,S10,social,student 10,16-Sep-15
+101,S05,cognitive,student 05,16-Sep-15
+102,S14,cognitive,student 14,16-Sep-15
+103,S04,social,student 04,16-Sep-15
+104,S13,social,student 13,16-Sep-15
+105,S18,cognitive,student 18,16-Sep-15
+106,T01,cognitive,teacher,16-Sep-15
+107,T01,social,teacher,16-Sep-15
+108,S12,social,student 12,16-Sep-15
+109,S19,social,student 19,16-Sep-15
+110,S11,cognitive,student 11,16-Sep-15
+111,S02,social,student 02,16-Sep-15
+112,S11,social,student 11,16-Sep-15
+113,S10,cognitive,student 10,16-Sep-15
+114,S19,social,student 19,16-Sep-15
+115,S14,social,student 14,16-Sep-15
+116,S04,social,student 04,16-Sep-15
