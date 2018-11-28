@@ -1,4 +1,5 @@
 # A *IntVisRep* tool 
+##### - designed by Fan Ouyang
 ## Introduction
 This *IntVisRep* tool demonstrated three types of interactive, visualized representations: interaction networks (reflecting social network analysis results), keyword flows (reflecting text mining results), and temporal online presences (reflecting content analysis results). Together, the IntVisRep tool demonstrated online collaborative discussions from multiple perspectives (e.g., social, lexical, cognitive).
 
