@@ -25,9 +25,12 @@ In the third representation **temporal online presences**, users can view the ch
 ## Future design & research goals
 Empirical studies showed that learning analytics tools, representations and reports can aid information navigation, sense-making, and decision-making (Chen et al., 2018; Dado & Bodemer, 2018). I plan to embed this ***IntVisRep*** tool, in the form of ShinyApp or interactive html, in my future online courses (hosted in Canvas or Moodle), in order to examine whether and how the use of this tool would influence participants' social interaction, topic contribution, and online presence during online collaborative discussions. Since *IntVisRep*'s initial version included some intensive post-analysis processes which can only provide delayed information to users, in the future design, I plan to take advantage of Canvas or Moodle API to capture real-time data and generate interactive representations directly.
 
-## More info about author and citation
+## More info about the citation of this tool
+Ouyang, F. (2018). IntVisRep [Github Repository]. Retrieved from https://github.com/fanouyang/IntVisRep/
 
 ## Bibliograph
+Chen, B. (2013). CORDTRA-R [Github Repository]. Retrieved from https://github.com/meefen/CORDTRA-R
+
 Chen, B., Chang, Y. H., Ouyang, F., & Zhou, W. Y. (2018). Fostering discussion engagement through social learning analytics. *The Internet and Higher Education, 37*, 21–30.
 
 Dado, M., & Bodemer, D. (2018). Social and cognitive group awareness to aid argumentation about socially acute questions on social media. In J., Kay, and R. Luckin (Eds.) *Rethinking Learning in the Digital Age: Making the Learning Sciences Count, 13th International Conference of the Learning Sciences (ICLS) 2018, Volume 1*. (pp. 456-463). London, UK: International Society of the Learning Sciences.
